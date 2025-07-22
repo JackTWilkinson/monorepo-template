@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-template/core",
+  "name": "@character-creator/core",
   "type": "module",
   "version": "0.0.0",
   "scripts": {
@@ -11,9 +11,7 @@
       "./src/*.ts"
     ]
   },
-  "dependencies": {
-    "sst": "*"
-  },
+  "dependencies": {},
   "devDependencies": {
     "vitest": "^2"
   }
