@@ -9,9 +9,9 @@
     "packages/core",
     "packages/infrastructure"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
     "@tsconfig/node22": "^22",
     "typescript": "^5"
   },
